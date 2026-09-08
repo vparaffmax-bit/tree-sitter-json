@@ -15,3 +15,4 @@ JSON grammar for [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 [npm]: https://img.shields.io/npm/v/tree-sitter-json?logo=npm
 [crates]: https://img.shields.io/crates/v/tree-sitter-json?logo=rust
 [pypi]: https://img.shields.io/pypi/v/tree-sitter-json?logo=pypi&logoColor=ffd242
+key (
